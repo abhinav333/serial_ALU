@@ -1,4 +1,4 @@
-##VHDL code for ALU operation:
+## VHDL code for ALU operation:
 
 -Performs four arithmetic operations (addition/subtraction/multiplication/division)
 
