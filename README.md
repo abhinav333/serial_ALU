@@ -1,4 +1,4 @@
--Performs four arithmatic operations (addition/subtraction/multiplication/division)
--reads serial infix format aritmatic expression into BRAM
--converts infix format to postfix
--expression evaluation and output 
+-Performs four arithmetic operations (addition/subtraction/multiplication/division)
+-Reads serial infix format into BRAM
+-Converts infix format to postfix
+ 
